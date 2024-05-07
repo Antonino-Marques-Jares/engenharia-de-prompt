@@ -1,15 +1,15 @@
 # Engenharia de prompt
 
-# No segundo desafio da "Imersão IA da Alura e Google em 2024" foi sugerido :
+> ## 🎓 No segundo desafio da "Imersão IA da Alura e Google em 2024" foi sugerido :
 
 > [X] Exercício 1 - fill shot (perguntas e respostas)
 >
 > [X] Exercício 2 - Enviar 10 matérias e seus 10 títulos destas matérias e por último enviar 1 matéria e pedir para o Gemini sugerir um título para essa outra matéria.
 
-# Objetivo
+> ## 🚀 Objetivo:
 > - [X] Compreender técnicas de engenharia de prompt.
 
-# O que é engenharia de prompt segundo o próprio Gemini:
+> ## 💼 O que é engenharia de prompt segundo o próprio Gemini:
 
 A engenharia de prompt, também conhecida como prompt engineering em inglês, é um campo emergente na área da inteligência artificial (IA) que se concentra na criação e otimização de prompts para modelos de linguagem.
 
@@ -34,6 +34,14 @@ Habilidades de pensamento crítico: Os engenheiros de prompt precisam ser capaze
 Conhecimento de IA: Os engenheiros de prompt precisam ter um bom entendimento de como os modelos de linguagem funcionam. Eles precisam ser capazes de identificar as limitações desses modelos e desenvolver prompts que os ajudem a superar essas limitações.
 Criatividade: Os engenheiros de prompt precisam ser criativos e capazes de pensar em novas maneiras de usar modelos de linguagem. Eles precisam ser capazes de desenvolver prompts que sejam envolventes e informativos.
 O futuro da engenharia de prompt
+
+## ALURA (#alura)
+
+## IMERSÃO IA (#imersaoia)
+
+## GOOGLE (#google)
+
+## GEMINI (#gemini)
 
 A engenharia de prompt é um campo em rápido crescimento com muito potencial. À medida que os modelos de linguagem se tornam mais sofisticados, a demanda por engenheiros de prompt qualificados também aumentará. Se você está interessado em uma carreira em IA, a engenharia de prompt é uma ótima opção a se considerar.
 
