@@ -1,4 +1,4 @@
-# engenharia-de-prompt
+# Engenharia de prompt
 
 # No segundo desafio da "Imersão IA da Alura e Google em 2024" foi sugerido :
 > - [ ]  fill shot (perguntas e respostas)
