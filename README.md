@@ -1,8 +1,8 @@
 # Engenharia de prompt
 
 # No segundo desafio da "Imersão IA da Alura e Google em 2024" foi sugerido :
-> - [ ]  fill shot (perguntas e respostas)
-> - [X] Enviar 10 matérias e seus 10 títulos destas matérias e por último enviar 1 matéria e pedir para o Gemini sugerir um título para essa outra matéria.
+> [X] Exercício 1 - fill shot (perguntas e respostas)
+> [X] Exercício 2 - Enviar 10 matérias e seus 10 títulos destas matérias e por último enviar 1 matéria e pedir para o Gemini sugerir um título para essa outra matéria.
 
 # Objetivo
 > - [X] Compreender técnicas de engenharia de prompt.
